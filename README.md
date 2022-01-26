@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @E-007
-- 👀 I’m a beginner interested in Product Design
-- 🌱 I’m currently learning how to design Product Interfaces using Figma
+- 👀 I’m a beginner interested in Product Management
 - 💞️ I’m looking to collaborate on small time projects to grow my skills and enhance my portfolio
 - 📫 How to reach me - ekenebismarck@gmail
 
